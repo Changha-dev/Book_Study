@@ -25,9 +25,9 @@
 #### 2023-10-13(금)
     Chapter 01 협력하는 객체들의 공동체
 
-    - 전창하 ()
-    - 채홍무 ()
-    - 이은지 ()
-    - 신민규 (https://ukym-tistory.tistory.com/entry/GDSC-%EB%B6%81-%EC%8A%A4%ED%84%B0%EB%94%94-01%ED%98%91%EB%A0%A5%ED%95%98%EB%8A%94-%EA%B0%9D%EC%B2%B4%EB%93%A4%EC%9D%98-%EA%B3%B5%EB%8F%99%EC%B2%B4)
-    - 이인선 ()
+* 창하 [Chapter1_정리자료](https://changha-dev.tistory.com/171)
+* 홍무 ()
+* 은지 ()
+* 민규 [Chapter1_정리자료](https://ukym-tistory.tistory.com/entry/GDSC-%EB%B6%81-%EC%8A%A4%ED%84%B0%EB%94%94-01%ED%98%91%EB%A0%A5%ED%95%98%EB%8A%94-%EA%B0%9D%EC%B2%B4%EB%93%A4%EC%9D%98-%EA%B3%B5%EB%8F%99%EC%B2%B4)
+* 인선 ()
     

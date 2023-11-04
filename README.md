@@ -30,4 +30,15 @@
 * 은지 ()
 * 민규 [Chapter1_정리자료](https://ukym-tistory.tistory.com/entry/GDSC-%EB%B6%81-%EC%8A%A4%ED%84%B0%EB%94%94-01%ED%98%91%EB%A0%A5%ED%95%98%EB%8A%94-%EA%B0%9D%EC%B2%B4%EB%93%A4%EC%9D%98-%EA%B3%B5%EB%8F%99%EC%B2%B4)
 * 인선 ()
+
+#### 2023-11-05(일)
+    Chapter 02 이상한 나라의 객체 
+
+* 창하 [Chapter2_정리자료](https://changha-dev.tistory.com/172)
+* 홍무 ()
+* 은지 ()
+* 민규 ()
+* 인선 ()
+
+
     

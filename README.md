@@ -27,7 +27,7 @@
 
 * 창하 [Chapter1_정리자료](https://changha-dev.tistory.com/171)
 * 홍무 [Chapter1_정리자료](https://hong-mu.github.io/assets/pdf/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%EC%82%AC%EC%8B%A4%EA%B3%BC%EC%98%A4%ED%95%B4_1%EC%9E%A5.pdf)
-* 은지 ()
+* 은지 [Chapter1_정리자료](https://velog.io/@ejdmswl/Chapter-1.-%ED%98%91%EB%A0%A5%ED%95%98%EB%8A%94-%EA%B0%9D%EC%B2%B4%EB%93%A4%EC%9D%98-%EA%B3%B5%EB%8F%99%EC%B2%B4)
 * 민규 [Chapter1_정리자료](https://ukym-tistory.tistory.com/entry/GDSC-%EB%B6%81-%EC%8A%A4%ED%84%B0%EB%94%94-01%ED%98%91%EB%A0%A5%ED%95%98%EB%8A%94-%EA%B0%9D%EC%B2%B4%EB%93%A4%EC%9D%98-%EA%B3%B5%EB%8F%99%EC%B2%B4)
 * 인선 ()
 
@@ -36,7 +36,7 @@
 
 * 창하 [Chapter2_정리자료](https://changha-dev.tistory.com/172)
 * 홍무 ()
-* 은지 ()
+* 은지 [Chapter2_정리자료](https://velog.io/@ejdmswl/GDSC-1%EC%BF%BC%ED%84%B0-%EB%B6%81%EC%8A%A4%ED%84%B0%EB%94%94-Chapter-2.-%EC%9D%B4%EC%83%81%ED%95%9C-%EB%82%98%EB%9D%BC%EC%9D%98-%EA%B0%9D%EC%B2%B4)
 * 민규 ()
 * 인선 ()
 

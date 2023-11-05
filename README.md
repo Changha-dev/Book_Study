@@ -35,7 +35,7 @@
     Chapter 02 이상한 나라의 객체 
 
 * 창하 [Chapter2_정리자료](https://changha-dev.tistory.com/172)
-* 홍무 [Chapter2_정리자료](https://www.notion.so/blushc/99bd9cb5c23f4e52ad6c1d8a92480dd8?pvs=4)
+* 홍무 [Chapter2_정리자료]([https://www.notion.so/blushc/99bd9cb5c23f4e52ad6c1d8a92480dd8?pvs=4](https://blushc.notion.site/99bd9cb5c23f4e52ad6c1d8a92480dd8?pvs=4))
 * 은지 [Chapter2_정리자료](https://velog.io/@ejdmswl/GDSC-1%EC%BF%BC%ED%84%B0-%EB%B6%81%EC%8A%A4%ED%84%B0%EB%94%94-Chapter-2.-%EC%9D%B4%EC%83%81%ED%95%9C-%EB%82%98%EB%9D%BC%EC%9D%98-%EA%B0%9D%EC%B2%B4)
 * 민규 [Chapter2_정리자료](https://ukym-tistory.tistory.com/m/entry/GDSC-%EB%B6%81-%EC%8A%A4%ED%84%B0%EB%94%94-02)
 * 인선 [Chapter 2 정리자료](https://it-development-computer-insun.tistory.com/3)

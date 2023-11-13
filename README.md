@@ -47,7 +47,7 @@
 * 홍무 [Chapter3_정리자료]()
 * 은지 [Chapter3_정리자료]()
 * 민규 [Chapter3_정리자료](https://ukym-tistory.tistory.com/entry/GDSC-%EB%B6%81-%EC%8A%A4%ED%84%B0%EB%94%94-03%ED%83%80%EC%9E%85%EA%B3%BC-%EC%B6%94%EC%83%81%ED%99%94)
-* 인선 [Chapter3 정리자료]()
+* 인선 [Chapter3_정리자료]()
 
 
 

@@ -44,7 +44,7 @@
     Chapter 03 타입과 추상화
 
 * 창하 [Chapter3_정리자료](https://changha-dev.tistory.com/173#%EC%A0%95%EC%A0%81%20%EB%AA%A8%EB%8D%B8-1)
-* 홍무 [Chapter3_정리자료]()
+* 홍무 [Chapter3_정리자료](https://blushc.notion.site/3-eebc4b9aed42461ab21e7c26eec1ce55?pvs=4)
 * 은지 [Chapter3_정리자료]()
 * 민규 [Chapter3_정리자료](https://ukym-tistory.tistory.com/entry/GDSC-%EB%B6%81-%EC%8A%A4%ED%84%B0%EB%94%94-03%ED%83%80%EC%9E%85%EA%B3%BC-%EC%B6%94%EC%83%81%ED%99%94)
 * 인선 [Chapter3_정리자료](https://it-development-computer-insun.tistory.com/4)

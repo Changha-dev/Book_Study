@@ -49,6 +49,14 @@
 * 민규 [Chapter3_정리자료](https://ukym-tistory.tistory.com/entry/GDSC-%EB%B6%81-%EC%8A%A4%ED%84%B0%EB%94%94-03%ED%83%80%EC%9E%85%EA%B3%BC-%EC%B6%94%EC%83%81%ED%99%94)
 * 인선 [Chapter3_정리자료](https://it-development-computer-insun.tistory.com/4)
 
+#### 2023-11-21(화)
+    Chapter 03 역할, 책임, 협력
+
+* 창하 [Chapter3_정리자료]()
+* 홍무 [Chapter3_정리자료]()
+* 은지 [Chapter3_정리자료]()
+* 민규 [Chapter3_정리자료](https://ukym-tistory.tistory.com/entry/GDSC-%EB%B6%81-%EC%8A%A4%ED%84%B0%EB%94%94-04%EC%97%AD%ED%95%A0-%EC%B1%85%EC%9E%84-%ED%98%91%EB%A0%A5)
+* 인선 [Chapter3_정리자료]()
 
 
   

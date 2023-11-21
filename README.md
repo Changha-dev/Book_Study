@@ -54,7 +54,7 @@
 
 * 창하 [Chapter3_정리자료](https://changha-dev.tistory.com/174)
 * 홍무 [Chapter4_정리자료](https://blushc.notion.site/4-5b528ffaae054362a65916856ede8063?pvs=4)
-* 은지 [Chapter3_정리자료]()
+* 은지 [Chapter4_정리자료](https://velog.io/@ejdmswl/GDSC-1%EC%BF%BC%ED%84%B0-%EB%B6%81%EC%8A%A4%ED%84%B0%EB%94%94-Chapter-4.-%EC%97%AD%ED%95%A0-%EC%B1%85%EC%9E%84-%ED%98%91%EB%A0%A5#5-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%EC%84%A4%EA%B3%84-%EA%B8%B0%EB%B2%95)
 * 민규 [Chapter3_정리자료](https://ukym-tistory.tistory.com/entry/GDSC-%EB%B6%81-%EC%8A%A4%ED%84%B0%EB%94%94-04%EC%97%AD%ED%95%A0-%EC%B1%85%EC%9E%84-%ED%98%91%EB%A0%A5)
 * 인선 [Chapter3_정리자료]()
 

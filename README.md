@@ -50,7 +50,7 @@
 * 인선 [Chapter3_정리자료](https://it-development-computer-insun.tistory.com/4)
 
 #### 2023-11-21(화)
-    Chapter 03 역할, 책임, 협력
+    Chapter 04 역할, 책임, 협력
 
 * 창하 [Chapter3_정리자료](https://changha-dev.tistory.com/174)
 * 홍무 [Chapter4_정리자료](https://blushc.notion.site/4-5b528ffaae054362a65916856ede8063?pvs=4)

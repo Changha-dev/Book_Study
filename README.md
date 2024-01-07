@@ -63,7 +63,7 @@
     Chapter 05 책임과 메시지
     
 * 창하 [Chapter5_정리자료](https://changha-dev.tistory.com/175)
-* 홍무 [Chapter5_정리자료]()
+* 홍무 [Chapter5_정리자료](https://blushc.notion.site/5-eec23af01f6b48ad84b5c00635a73c10?pvs=4)
 * 은지 [Chapter5_정리자료](https://velog.io/@ejdmswl/GDSC-%EB%B6%81%EC%8A%A4%ED%84%B0%EB%94%94-Chapter-5.-%EC%B1%85%EC%9E%84%EA%B3%BC-%EB%A9%94%EC%8B%9C%EC%A7%80)
 * 민규 [Chapter5_정리자료](https://ukym-tistory.tistory.com/entry/GDSC-%EB%B6%81-%EC%8A%A4%ED%84%B0%EB%94%94-05%EC%B1%85%EC%9E%84%EA%B3%BC-%EB%A9%94%EC%8B%9C%EC%A7%80)
 * 인선 [Chapter5_정리자료](https://it-development-computer-insun.tistory.com/5)

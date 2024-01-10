@@ -69,7 +69,7 @@
 * 인선 [Chapter5_정리자료](https://it-development-computer-insun.tistory.com/5)
 
 #### 2024-01-11(목)
-    Chapter 06 책임과 메시지
+    Chapter 06 객체 지도
     
 * 창하 [Chapter6_정리자료](https://changha-dev.tistory.com/176)
 * 홍무 [Chapter6_정리자료]()

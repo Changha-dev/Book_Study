@@ -73,7 +73,7 @@
     
 * 창하 [Chapter6_정리자료](https://changha-dev.tistory.com/176)
 * 홍무 [Chapter6_정리자료]()
-* 은지 [Chapter6_정리자료]()
+* 은지 [Chapter6_정리자료](https://velog.io/@ejdmswl/Chapter-6.-%EA%B0%9D%EC%B2%B4-%EC%A7%80%EB%8F%84)
 * 민규 [Chapter6_정리자료]()
 * 인선 [Chapter6_정리자료]()
   

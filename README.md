@@ -80,7 +80,7 @@
 #### 2024-01-20(토)
     Chapter 07 함께 모으기
     
-* 창하 [Chapter7_정리자료]()
+* 창하 [Chapter7_정리자료](https://changha-dev.tistory.com/177)
 * 홍무 [Chapter7_정리자료]()
 * 은지 [Chapter7_정리자료]()
 * 민규 [Chapter7_정리자료]()

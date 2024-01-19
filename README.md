@@ -78,11 +78,11 @@
 * 인선 [Chapter6_정리자료](오늘은 패스)
 
 #### 2024-01-20(토)
-    Chapter 06 함께 모으기
+    Chapter 07 함께 모으기
     
-* 창하 [Chapter6_정리자료]()
-* 홍무 [Chapter6_정리자료]()
-* 은지 [Chapter6_정리자료]()
-* 민규 [Chapter6_정리자료]()
-* 인선 [Chapter6_정리자료](https://it-development-computer-insun.tistory.com/7)
+* 창하 [Chapter7_정리자료]()
+* 홍무 [Chapter7_정리자료]()
+* 은지 [Chapter7_정리자료]()
+* 민규 [Chapter7_정리자료]()
+* 인선 [Chapter7_정리자료](https://it-development-computer-insun.tistory.com/7)
   

@@ -82,7 +82,7 @@
     
 * 창하 [Chapter7_정리자료](https://changha-dev.tistory.com/177)
 * 홍무 [Chapter7_정리자료]()
-* 은지 [Chapter7_정리자료]()
+* 은지 [Chapter7_정리자료](https://velog.io/@ejdmswl/Chapter-7.-%ED%95%A8%EA%BB%98-%EB%AA%A8%EC%9C%BC%EA%B8%B0)
 * 민규 [Chapter7_정리자료](https://ukym-tistory.tistory.com/entry/GDSC-%EB%B6%81-%EC%8A%A4%ED%84%B0%EB%94%94-06%EA%B0%9D%EC%B2%B4-%EC%A7%80%EB%8F%84)
 * 인선 [Chapter7_정리자료](https://it-development-computer-insun.tistory.com/7)
   
